@@ -1,8 +1,4 @@
-### Hi there 👋
-
-### 📫 How to reach me:
-
-[<img src="https://github.com/Marmouz82/images/blob/main/linkedin.png?raw=true" height="50px" />](https://www.linkedin.com/in/ga%C3%ABtan-massart/) <a href="mailto:gtn.massart@gmail.com"><img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/Gmail-logo.png?raw=true" height="50px" /></a>
+# Hi, Welcome to my GitHub 👋
 
 <!--
 **gtn-massart/gtn-massart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
